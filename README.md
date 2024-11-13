@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @manirachamallu
+- 👋 Hi, I’m @manirachamallu ✨✨
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking for Internships ✨
+
 
 <!---
 manirachamallu/manirachamallu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
